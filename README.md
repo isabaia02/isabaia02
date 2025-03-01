@@ -1,6 +1,6 @@
 ## 👋 Heyy, I’m @isabaia02, but you can call me Isa!
 ### About me:
-🙍‍♀️ | 19 years old. <br/>
+🙍‍♀️ | 20 years old. <br/>
 🏡 | Brazilian. <br/>
 👩‍🎓 | Software Engineering Student at UTFPR. <br/>
 🖍️ | Currently working with UX/UI Design. <br/>
