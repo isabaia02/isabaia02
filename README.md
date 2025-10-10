@@ -3,8 +3,7 @@
 🙍‍♀️ | 20 years old. <br/>
 🏡 | Brazilian. <br/>
 👩‍🎓 | Software Engineering Student at UTFPR. <br/>
-🖍️ | Currently working with UX/UI Design & Front-End Development @Unect. <br/>
-🖥️ | Interested in Full Stack and Back-End Development. <br/>
+🖍️ | Currently working as a Full Stack Developer @Oxian <br/>
 📚 | Loves to read and is learning to play the bass! <br/>
 
 <!---
