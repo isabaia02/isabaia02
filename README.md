@@ -1,9 +1,9 @@
 ## 👋 Heyy, I’m @isabaia02, but you can call me Isa!
 ### About me:
-🙍‍♀️ | 20 years old. <br/>
+🙍‍♀️ | 21 years old. <br/>
 🏡 | Brazilian. <br/>
 👩‍🎓 | Software Engineering Student at UTFPR. <br/>
-🖍️ | Currently working as a Full Stack Developer @Oxian <br/>
+🖍️ | Currently working as a Full Stack Developer @CI&T <br/>
 📚 | Loves to read and is learning to play the bass! <br/>
 
 <!---
