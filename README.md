@@ -1,14 +1,14 @@
-# Hi, I'm Isadora 👋
+## Hi, I'm Isadora 👋
 
 Backend developer at **CI&T**, working on APIs and transactional services in Java and Spring Boot. 
 
 Software Engineering student at **UTFPR** (expected July 2027) and undergraduate researcher on LLMs for test case prioritization.
 
-## 🔬 Research
+### 🔬 Research
 Comparing Markov-chain heuristics with LLM-based approaches for test case prioritization
 → [markov-test-prioritization](https://github.com/isabaia02/markov-test-prioritization)
 
-## 🛠️ Stack
+### 🛠️ Stack
 **Languages:** Java · Python · TypeScript/JavaScript · SQL 
 
 **Backend:** Spring Boot · NestJS · Node.js
@@ -21,7 +21,7 @@ Comparing Markov-chain heuristics with LLM-based approaches for test case priori
 
 **AI:** LLMs · Generative AI · Agentic SDLC
 
-## 🌍 Languages
+### 🌍 Languages
 Portuguese (native) · English (C1) · French (B2)
 
 📫 [LinkedIn](https://linkedin.com/in/isadora-baia)
